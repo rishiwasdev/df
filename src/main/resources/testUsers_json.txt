@@ -1,0 +1,39 @@
+{
+	"name":"Jack",
+	"username":"jackgkz",
+	"email":"jack@grokonez.com",
+	"role":["user"],
+	"password":"654321"
+}
+--------------------------------------
+{
+	"name":"Adam",
+	"username":"adamgkz",
+	"email":"adam@grokonez.com",
+	"role":["user","pm"],
+	"password":"123456789"
+}
+--------------------------------------
+{
+	"name":"Thomas",
+	"username":"thomasgkz",
+	"email":"thomas@grokonez.com",
+	"role":["admin"],
+	"password":"135791"
+}
+-----------------------------------------------------------------------------------
+{
+	"username":"jackgkz",
+	"password":"654321"
+}
+--------------------------------------
+{
+	"username":"adamgkz",
+	"password":"123456789"
+}
+--------------------------------------
+{
+	"username":"thomasgkz",
+	"password":"135791"
+}
+-----------------------------------------------------------------------------------
